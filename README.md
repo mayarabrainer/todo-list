@@ -1,8 +1,19 @@
-# React + Vite
+# Gerenciador de Tarefas 📋✅
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Aplicação web responsiva desenvolvida para ajudar os usuários a gerenciar suas tarefas diárias de maneira eficiente.
 
-Currently, two official plugins are available:
+## Tecnologias Utilizadas 🚀
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **React**: Para criar uma interface dinâmica e interativa.
+- **CSS**: Para o design e estilo visual da aplicação
+- **Git**: Para versionamento de código.
+
+## Funcionalidades ⚙️
+
+- **Adicionar Tarefas**: Inclua novas tarefas à lista 📝
+- **Remover Tarefas**: Exclua tarefas quando não forem mais necessárias ❌
+- **Completar Tarefas**: Marque tarefas como concluídas ✅
+- **Ordenação de Tarefas**: Busque e organize tarefas em ordem crescente ou decrescente 🔄
+
+
+Acesse a aplicação no seu navegador: https://todo-list-green-pi.vercel.app/
